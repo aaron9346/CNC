@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbwAPQWJyFdkVFcuxcn8FOf_3Sg3w7Hdw-_0dx3ArQoZWgp68iNd86g5oHCQ_HW1JgrN/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwAPQWJyFdkVFcuxcn8FOf_3Sg3w7Hdw-_0dx3ArQoZWgp68iNd86g5oHCQ_HW1JgrN/exec';
 
 document.addEventListener('DOMContentLoaded', async () => {
     // Set default date
